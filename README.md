@@ -8,8 +8,8 @@ A folder will need to be created for the output textures. output/1/, output/2, .
 
 the project will need to contain the following
 
-middleware\n
-textures\n
-output\n
+middleware\,
+textures\,
+output\,
 main.cpp
 
